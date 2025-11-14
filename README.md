@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Fatemeh Kondori
 
 🎓 Data Science student at Isfahan University  
-💡 Passionate about machine learning, data visualization, and feature engineering  
-🚀 Currently exploring **Deep Learning**, **NLP**, and **LLMs**  
-🌱 Always eager to learn new things and share my journey
+Currently exploring about machine learning, data visualization, and feature engineering  
+ Eager to explore the worlds of NLP, LLMs, RAG, and deep learning — it feels like a new life has opened up to me
 
 ---
 
